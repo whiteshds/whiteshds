@@ -4,10 +4,8 @@
 
 <h4> 最近更新的博文: </h4>
 
-  - [iOS客服端测试 ( 04-27 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/qyg3iy)
-  - [鱼阅客户端iOS测试 ( 04-26 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/hka1ee)
-  - [不分享 ( 04-26 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/sgxvff)
-  - [语雀测试 ( 04-26 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/sd1mvv)
+  - [双方同步测试 ( 04-27 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/vf68ra)
+  - [123456readme测试 ( 04-27 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/zo23xq)
 
 
 <p align="right"><a href="https://www.yuque.com/whiteshds/whiteshds">➡️ More blog posts</a></p>

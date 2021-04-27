@@ -10,7 +10,6 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-  repository_dispatch: [ master ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -50,12 +49,4 @@ jobs:
         git config --global user.name "GitHub Action Bot"
         git commit -m "Updated README" -a || echo "No changes to commit"
         git push
-# from https://github.com/peaceiris/actions-gh-pages    
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-          deploy_key: ${{ secrets.HEXO_DEPLOY_PRIVATE_KEY}}
-          external_repository: whiteshds/whiteshds
-          publish_branch: master
-          publish_dir: /
-          commit_message: ${{ github.event.head_commit.message }}
+

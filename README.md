@@ -4,8 +4,7 @@
 
 <h4> 最近更新的博文: </h4>
 
-  - [双方同步测试 ( 04-27 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/vf68ra)
-  - [123456readme测试 ( 04-27 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/zo23xq)
+  - [今天好无聊啊 ( 04-28 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/qzc8l6)
 
 
 <p align="right"><a href="https://www.yuque.com/whiteshds/whiteshds">➡️ More blog posts</a></p>

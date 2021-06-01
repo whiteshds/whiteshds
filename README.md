@@ -4,8 +4,8 @@
 
 <h4> 最近更新的博文: </h4>
 
+  - [6月的第一天 ( 06-01 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/foimpp)
   - [五月份最后一天，记录一下 ( 05-31 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/teypiq)
-  - [今天好无聊啊 ( 04-28 · 0 颗稻谷)](https://yuque.com/whiteshds/whiteshds/qzc8l6)
 
 
 <p align="right"><a href="https://www.yuque.com/whiteshds/whiteshds">➡️ More blog posts</a></p>

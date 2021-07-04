@@ -1,4 +1,4 @@
-<h2>Hi, I'm WHITESHDS! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<h2>Hi, I'm 课代表酱汁! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <p><em>同步 于 <a href="https://whiteshds.ml/">部落格</a> . </em>
 
@@ -10,9 +10,7 @@
 
 <p align="right"><a href="https://www.yuque.com/whiteshds/whiteshds">➡️ More blog posts</a></p>
 
-### WHITESHDS | 网络杀手![](https://visitor-badge.glitch.me/badge?page_id=whiteshds.whiteshds)
-![weixin.png](https://i.loli.net/2020/12/10/8pAos4aRq3XE6Jb.png)
-
+### WHITESHDS | 课代表酱汁
 <br />
 
 <a href="https://twitter.com/whiteshds">

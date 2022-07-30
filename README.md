@@ -134,39 +134,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://whiteshds.ml">
+      <a href="https://whiteshds.gitee.io">
         <img src="https://i.loli.net/2020/10/09/lVSR2z91iQhajqW.jpg" width="100px;" alt="Ir1d"/>
       </a>
       <br />
-      <a href="https://whiteshds.ml">HEXO</a>
-    </td>
-    <td align="center">
-      <a href="https://whiteshds.ga">
-        <img src="https://i.loli.net/2020/10/09/QpZyshO9LANM7zF.jpg" width="100px;" alt="xtlsoft"/>
-      </a>
-      <br />
-      <a href="https://whiteshds.ga">JEKYLL</a>
-    </td>
-    <td align="center">
-      <a href="http://gitee.tk/">
-        <img src="https://i.loli.net/2020/10/09/6eAiZcRhHvJul9b.jpg" width="100px;" alt="tengge1"/>
-      </a>
-      <br />
-      <a href="http://whiteshds.gitee.io/squarezero.github.io/">GITEE</a>
-    </td>
-    <td align="center">
-      <a href="https://whiteshds.cf">
-        <img src="https://i.loli.net/2020/10/09/OdYSz18uIAWMRKC.jpg" width="100px;" alt="thanhtoan1196"/>
-      </a>
-      <br />
-      <a href="https://whiteshds.cf">Gitlab</a>
-    </td>
-    <td align="center">
-      <a href="https://whiteshds.tk">
-        <img src="https://i.loli.net/2020/10/09/pM4ZhItE2e3qSa8.jpg" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://whiteshds.tk">JEKYLL</a>
     </td>
   </tr>
 </table>
@@ -175,11 +146,8 @@
 
 
 语言使用:
-
-![Sql](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=Sql%EF%B8%B168.8%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B112.1%25)
 ![SSH](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232c3e50&message=SSH%EF%B8%B17.1%25)
-![Bash](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Bash%EF%B8%B14.4%25)
 ![Markdown](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=Markdown%EF%B8%B12.4%25)
 ![Html](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=Html%EF%B8%B12.3%25)
 ![Git](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Git%EF%B8%B11.8%25)

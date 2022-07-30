@@ -10,8 +10,7 @@
 
 <p align="right"><a href="https://www.yuque.com/whiteshds/whiteshds">➡️ More blog posts</a></p>
 
-### WHITESHDS | 网络杀手![](https://visitor-badge.glitch.me/badge?page_id=whiteshds.whiteshds)
-![weixin.png]
+### WHITESHDS | 课代表酱汁![](https://visitor-badge.glitch.me/badge?page_id=whiteshds.whiteshds)
 
 <br />
 

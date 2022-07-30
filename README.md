@@ -57,7 +57,7 @@
 
 <h1 align="center">介绍🔚</h1>
 <div align="center">
-<a href="https://whiteshds.ml/about"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<a href="https://whiteshds.gitee.io/about"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 
 
 </div>
@@ -74,7 +74,7 @@
 
 
 <div align="right">
-  <a href="https://whiteshds.ga/merger/">
+  <a href="https://whiteshds.gitee.io">
     <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
   </a>
 </div>
@@ -86,7 +86,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Photoshop 
 <div align="center">  
 
   
@@ -97,7 +97,7 @@
 
 </div></td><td valign="top" width="33%">
 
-### Backend  
+### Premiere 
 <div align="center">  
  
 

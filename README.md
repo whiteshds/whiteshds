@@ -86,7 +86,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Photoshop 
+### Photoshop合成 
 <div align="center">  
 
   
@@ -97,7 +97,7 @@
 
 </div></td><td valign="top" width="33%">
 
-### Premiere 
+### Premiere后期 
 <div align="center">  
  
 

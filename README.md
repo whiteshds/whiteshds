@@ -64,12 +64,10 @@
 
 <div align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/-whiteshds-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/whiteshds/)](https://twitter.com/whiteshds/)
+
 [![Facebook Badge](https://img.shields.io/badge/-whiteshds-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/whiteshds/)](https://www.facebook.com/in/whiteshds/)
-[![Linkedin Badge](https://img.shields.io/badge/-whiteshds-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whiteshds/)](https://www.linkedin.com/in/whiteshds/)
 [![Medium Badge](https://img.shields.io/badge/-@whiteshds-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@whiteshds/)](https://medium.com/@whiteshds)
 [![Gmail Badge](https://img.shields.io/badge/-2622164267@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:2622164267@qq.com)](mailto:2622164267@qq.com)
-[![Youtube Badge](https://img.shields.io/badge/-王%20King-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCs2h7EpMLd7isnm_W-ccR9w)](https://www.youtube.com/channel/UCs2h7EpMLd7isnm_W-ccR9w)
 [![Instagram Badge](https://img.shields.io/badge/-whiteshds-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/whiteshds/)](https://instagram.com/whiteshds)
 </div>
 

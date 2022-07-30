@@ -101,13 +101,13 @@
 <div align="center">  
  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/whiteshds/jsDelivr@master/txt/仓库/图床/落叶简介/picture/premiere.png" alt="premiere" height="50" />  
 
 </div></td><td valign="top" width="33%">
 
-### DevOps  
+### Axure 
 <div align="center">      
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/whiteshds/jsDelivr@master/txt/仓库/图床/落叶简介/picture/Axure.png" alt="Axure" height="50" />  
 </div></td></tr></table>  
 
 <br/>  

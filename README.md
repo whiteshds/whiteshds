@@ -3,4 +3,4 @@
 
 常用软件：photoshop,premiere,aftereffects,blender
 
-公众号：课代表酱汁 商务微信：crackerhack
+公众号：后期师酱汁 商务微信：crackerhack
